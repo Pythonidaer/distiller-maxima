@@ -87,3 +87,29 @@ Use the same article shell for About: persistent main navigation, heading hierar
 The lowercase methodology footer uses a native disclosure, initially closed. Keep rules and article collection links adjacent outside the disclosure. The public collection schema records stable ID, title, URL, roadmap, group, and topic; it is source mapping, not the guide commentary itself.
 
 Use Google's Material Icons SVG paths consistently for forward arrows, expand controls, hamburger, and close actions. Icons inherit currentColor and are decorative when visible labels or button accessible names already convey the action. Preserve the icon license. Do not mix Unicode arrows or CSS-drawn chevrons into this system.
+
+## Copy and hero update
+
+Use direct, conversational wording. Avoid cinematic contrast slogans and semicolons in reader-facing prose. The home page uses the author’s first-person account. The hero title is “Know before you flow,” set in vivid pink Grime Slime Dripping. Its personal-use demo is included only in the private Sites QA preview, with the supplied font notice. Do not copy it to public production without checking the appropriate font license.
+
+The hero uses a near-black background (#050505) and neon pink (#ff36c9). The same accent supplies logo and link underlines while text remains dark on light reading pages. Dripping title line height leaves room for the font’s lower details.
+
+## Hero and authorship refinements
+
+Use Chat-6.1 Sol Light as the credited tool in the author’s first-person methodology. About explains the learning and job-search context, the two matching roadmap/guide pairs, educational inspiration from roadmap.sh, and the documented repeatable workflow. Center the hero, use its width for a single-line desktop title, and allow wrapping below 1000px. Both hero actions share neon-pink hover backgrounds with black text. The logo underline appears only on hover or keyboard focus. Footer social links use MUI brand icons with accessible profile names.
+
+## Motion and footer refinement
+
+Stagger hero entrance using ease-out: title 550ms at 0ms, paragraph 500ms at 150ms, and CTA group 400ms at 300ms. Transition CTA background, text, and border colors over 180ms for hover and focus. Disable entrance and transition effects for Reduced Motion. Keep the methodology disclosure and social controls aligned on one footer row. Rules and collection links belong inside the disclosure. Use the display font only for the landing hero, with standard headings for About. Guide navigation labels must not assume the visitor came from a roadmap.
+
+## Shared design baseline and hero navigation
+
+Use design-system.css as the shared semantic-token and role layer, loaded after component styles. Keep the existing font families. Use 13/14px supporting text, 16px UI text, 18px reading text, 20px leads, 24px subsections, 26–32px sections, and 32–48px page titles. Body line height is 1.75. Spacing follows 4, 8, 12, 16, 24, 32, 48, 64px. Preserve roadmap canvas geometry and 16px node labels. Pink covers interaction accents, blue covers roadmap relationships, and neutrals cover reading surfaces and text. Transparent navigation is a dark-hero template variant only. Switch to the solid header as the hero’s 60% point passes beneath the sticky header, retain solid menu surfaces, and respect Reduced Motion for the transition.
+
+## Final header and heading consistency
+
+All content-page H1s share one complete role: Arial stack, 600 weight, clamp(32px,4vw,48px), 1.12 line height, and -1px tracking. The experimental landing hero is separate. Mobile top-level About uses the same 600 weight as Roadmaps and Guides. The dark-hero header uses a 14px backdrop blur and subtle black tint until it changes to the light header. Remove roadmap-introduction guide links because the main navigation already supplies those destinations.
+
+## Soft hero header and overview copy
+
+Use a 5px backdrop blur on a dark translucent pseudo-element, feathered to transparent over the header’s lower edge. Keep the navigation labels outside the blur layer. This replaces the uniform 14px blur to reduce pink haze. The hero paragraph connects the collection overview with choosing a topic before focused reading.

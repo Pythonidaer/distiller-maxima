@@ -21,7 +21,7 @@ for name,p in pages.items():
   if u.fragment:assert u.fragment in pages[target].ids,(name,href)
 for n,file,count in [(1,'programming-guide.html',117),(2,'data-ai-guide.html',89)]:
  inv=json.loads((root/'guides/inventory.json').read_text());expected=[a['url'] for a in inv if a['roadmap']==n]
- actual=[u for u in pages[file].links if u.startswith('https://')]
+ actual=[u for u in pages[file].links if u.startswith('https://') and u not in ['https://github.com/pythonidaer','https://www.linkedin.com/in/jonamichahammo/']]
  assert sorted(expected)==sorted(actual) and len(actual)==count
 links=json.loads((dist/'guide-links.js').read_text().split(' = ',1)[1].rstrip(';\n'))
 for g in links.values():

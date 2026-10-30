@@ -28,4 +28,9 @@
  html:not(.nav-enhanced) .header-inner{flex-wrap:wrap;padding-block:12px}
  html:not(.nav-enhanced) .nav-links{width:100%;display:block}
 }
-@media(prefers-reduced-motion:reduce){.nav-links,
+@media(prefers-reduced-motion:reduce){.nav-links{transition:none!important}}
+:root{--accent-pink:#ff36c9}a,a:hover{text-decoration-color:var(--accent-pink)}.site-header .brand{text-decoration:underline;text-decoration-color:var(--accent-pink);text-decoration-thickness:2px;text-underline-offset:6px}.nav-group.has-current>summary,.nav-links a[aria-current]{text-decoration-color:var(--accent-pink)}
+
+.collection-links a:hover>span{text-decoration-color:var(--accent-pink)}
+
+.site-header .brand{text-decoration:none}.site-header .brand:hover,.site-header .brand:focus-visible{text-decoration:underline;text-decoration-color:var(--accent-pink)}

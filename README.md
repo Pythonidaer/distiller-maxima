@@ -15,3 +15,7 @@ Roadmap visuals borrow the approach of https://roadmap.sh/ for educational purpo
 Pushes to main run the GitHub Pages workflow, validate the site, and upload `dist/`. If automatic Pages enablement is unavailable, select GitHub Actions under Settings → Pages.
 
 See [METHODOLOGY.md](METHODOLOGY.md) for writing, navigation, and responsive-template rules. Written resource pages informed original commentary; video courses were not watched and tutorial code was not run.
+
+## QA before production
+
+Keep the existing private Sites app synchronized with the GitHub app. Publish future changes to Sites for QA first; deploy to GitHub Pages after QA review. The current Sites QA baseline matches GitHub commit 994204777db05eeafffb4d781f311f7868c15b12. Preserve the Sites audience.

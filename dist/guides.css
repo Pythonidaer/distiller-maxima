@@ -30,3 +30,5 @@
 }
 
 @media(min-width:640px) and (max-width:900px){.reading-guide p{font-size:17px;line-height:1.75}.reading-guide .guide-lead{font-size:18px}}
+
+.reading-guide a{text-decoration-color:var(--accent-pink)}

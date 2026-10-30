@@ -33,6 +33,10 @@
  document.addEventListener('focusin',e=>{if(!e.target.closest('.site-header'))setNavigation(false);});
  compact.addEventListener('change',()=>{const focusWasInLinks=links.contains(document.activeElement);resetGroups();setNavigation(false,focusWasInLinks&&compact.matches);});
  const root=document.getElementById('siteShell')||window;
- const update=()=>header.classList.toggle('is-scrolled',(root===window?window.scrollY:root.scrollTop)>8);
- update();root.addEventListener('scroll',update,{passive:true});
+ const hero=document.querySelector('.home-page .hero');
+ const update=()=>{
+  header.classList.toggle('is-scrolled',(root===window?window.scrollY:root.scrollTop)>8);
+  header.classList.toggle('is-past-hero',!!hero&&hero.getBoundingClientRect().top+hero.offsetHeight*.6<=header.getBoundingClientRect().bottom);
+ };
+ update();root.addEventListener('scroll',update,{passive:true});window.addEventListener('resize',update);
 })();

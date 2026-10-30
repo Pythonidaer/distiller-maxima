@@ -1,0 +1,1650 @@
+[
+  {
+    "id": 1,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Learning to learn",
+    "title": "How to Understand Complex Coding Concepts Using the Feynman Technique",
+    "url": "https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/"
+  },
+  {
+    "id": 2,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Learning to learn",
+    "title": "Best Computer Programming Books to Help You Learn to Code",
+    "url": "https://www.freecodecamp.org/news/best-computer-programming-books-to-help-you-learn-to-code/"
+  },
+  {
+    "id": 3,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Systems basics",
+    "title": "What is an OS? Operating System Definition for Beginners",
+    "url": "https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/"
+  },
+  {
+    "id": 4,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Systems basics",
+    "title": "Multithreading for Beginners",
+    "url": "https://www.freecodecamp.org/news/multithreading-for-beginners/"
+  },
+  {
+    "id": 5,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Core concepts",
+    "title": "Software impedance explained",
+    "url": "https://www.freecodecamp.org/news/software-impedance-6796cc65758b/"
+  },
+  {
+    "id": 6,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Core concepts",
+    "title": "What is Abstraction in Coding? A Guide for Beginners",
+    "url": "https://www.freecodecamp.org/news/what-is-abstraction-in-coding/"
+  },
+  {
+    "id": 7,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Git and version control",
+    "title": "What is Git? A Beginner's Guide to Git Version Control",
+    "url": "https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/"
+  },
+  {
+    "id": 8,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Git and version control",
+    "title": "Git and GitHub Tutorial – Version Control for Beginners",
+    "url": "https://www.freecodecamp.org/news/git-and-github-for-beginners/"
+  },
+  {
+    "id": 9,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Math and language",
+    "title": "College Algebra – Learn College Math Prerequisites with this Free 7-Hour Course",
+    "url": "https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/"
+  },
+  {
+    "id": 10,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Math and language",
+    "title": "Learn A1 Level Spanish",
+    "url": "https://www.freecodecamp.org/news/learn-a1-level-spanish/"
+  },
+  {
+    "id": 11,
+    "roadmap": 1,
+    "group": "Foundations",
+    "topic": "Math and language",
+    "title": "Exploring the Linguistics Behind Regular Expressions",
+    "url": "https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/"
+  },
+  {
+    "id": 12,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Choosing a language",
+    "title": "The Best Programming Language to Learn – Beginners Guide to Coding",
+    "url": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/"
+  },
+  {
+    "id": 13,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "JavaScript",
+    "title": "A quick introduction to pipe() and compose() in JavaScript",
+    "url": "https://www.freecodecamp.org/news/pipe-and-compose-in-javascript-5b04004ac937/"
+  },
+  {
+    "id": 14,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "JavaScript",
+    "title": "JavaScript Libraries and APIs",
+    "url": "https://www.freecodecamp.org/news/javascript-libraries-and-apis-e9d674dc5690/"
+  },
+  {
+    "id": 15,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "JavaScript",
+    "title": "An Introduction to JavaScript's queueMicrotask",
+    "url": "https://www.freecodecamp.org/news/queuemicrotask/"
+  },
+  {
+    "id": 16,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "TypeScript",
+    "title": "Learn TypeScript Basics in this Beginner's Guide",
+    "url": "https://www.freecodecamp.org/news/learn-typescript-basics/"
+  },
+  {
+    "id": 17,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "TypeScript",
+    "title": "Learn TypeScript – A Comprehensive Guide for Beginners",
+    "url": "https://www.freecodecamp.org/news/typescript-for-beginners-guide/"
+  },
+  {
+    "id": 18,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Python",
+    "title": "An A-Z of useful Python tricks",
+    "url": "https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/"
+  },
+  {
+    "id": 19,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Python",
+    "title": "The Python Code Example Handbook – Simple Python Program Examples for Beginners",
+    "url": "https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"
+  },
+  {
+    "id": 20,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Python",
+    "title": "The Python Code Example Handbook",
+    "url": "https://www.freecodecamp.org/news/the-python-code-example-handbook/"
+  },
+  {
+    "id": 21,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Java",
+    "title": "JVM Tutorial - Java Virtual Machine Architecture Explained for Beginners",
+    "url": "https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/"
+  },
+  {
+    "id": 22,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Java",
+    "title": "Learn Java – Free Java Courses for Beginners",
+    "url": "https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/"
+  },
+  {
+    "id": 23,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Rust",
+    "title": "How to Learn Rust Without Installing Any Software",
+    "url": "https://www.freecodecamp.org/news/learn-rust-with-github-actions/"
+  },
+  {
+    "id": 24,
+    "roadmap": 1,
+    "group": "Programming Languages",
+    "topic": "Frameworks",
+    "title": "What is a Framework? Software Frameworks Definition",
+    "url": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/"
+  },
+  {
+    "id": 25,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "React architecture",
+    "title": "A Better Way to Structure React Projects",
+    "url": "https://www.freecodecamp.org/news/a-better-way-to-structure-react-projects/"
+  },
+  {
+    "id": 26,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "React architecture",
+    "title": "How to Improve Your ReactJS Code – Tips for Code Readability and Performance",
+    "url": "https://www.freecodecamp.org/news/improve-reactjs-code/"
+  },
+  {
+    "id": 27,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Browser APIs",
+    "title": "How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/"
+  },
+  {
+    "id": 28,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Browser APIs",
+    "title": "How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection",
+    "url": "https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/"
+  },
+  {
+    "id": 29,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Browser APIs",
+    "title": "How to Use the Payment Request API in JavaScript",
+    "url": "https://www.freecodecamp.org/news/payment-request-api-javascript/"
+  },
+  {
+    "id": 30,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Browser APIs",
+    "title": "How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API",
+    "url": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/"
+  },
+  {
+    "id": 31,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Interfaces and portfolios",
+    "title": "Create a Cute Room Portfolio with Three.js, Blender, JavaScript",
+    "url": "https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/"
+  },
+  {
+    "id": 32,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Interfaces and portfolios",
+    "title": "How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers",
+    "url": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"
+  },
+  {
+    "id": 33,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Interfaces and portfolios",
+    "title": "From Concept to Code: How to Use AI Tools to Design and Build UI Components",
+    "url": "https://www.freecodecamp.org/news/how-to-design-and-build-ui-components-with-ai/"
+  },
+  {
+    "id": 34,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Real-time web",
+    "title": "Learn WebSockets with Socket.IO",
+    "url": "https://www.freecodecamp.org/news/learn-websockets-socket-io/"
+  },
+  {
+    "id": 35,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Editor productivity",
+    "title": "Increase Your VS Code Productivity",
+    "url": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"
+  },
+  {
+    "id": 36,
+    "roadmap": 1,
+    "group": "Web development and design",
+    "topic": "Web development roles",
+    "title": "Front End Developer vs Back End Developer – Definition and Meaning In Practice",
+    "url": "https://www.freecodecamp.org/news/front-end-developer-vs-back-end-developer-definition-and-meaning-in-practice/"
+  },
+  {
+    "id": 37,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Data structures",
+    "title": "Learn Data Structures and Algorithms Visually",
+    "url": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/"
+  },
+  {
+    "id": 38,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Data structures",
+    "title": "A Gentle Introduction to Data Structures: How Stacks Work",
+    "url": "https://www.freecodecamp.org/news/data-structures-stacks-on-stacks-c25f2633c529/"
+  },
+  {
+    "id": 39,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Data structures",
+    "title": "Learn About Algorithms and Data Structures in this Free 6-hour  Course",
+    "url": "https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/"
+  },
+  {
+    "id": 40,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Data structures",
+    "title": "How Search Works Under the Hood – Data Structures and Search Algorithms Explained",
+    "url": "https://www.freecodecamp.org/news/how-searching-works-under-the-hood/"
+  },
+  {
+    "id": 41,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game engines",
+    "title": "Unreal Engine 5 Course – Learn How to Code Video Games",
+    "url": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/"
+  },
+  {
+    "id": 42,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game engines",
+    "title": "Unity Game Engine Guide: How to Get Started with the Most Popular Game Engine Out There",
+    "url": "https://www.freecodecamp.org/news/unity-game-engine-guide-how-to-get-started-with-the-most-popular-game-engine-out-there/"
+  },
+  {
+    "id": 43,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Browser games",
+    "title": "Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills",
+    "url": "https://www.freecodecamp.org/news/break-the-code-2-game/"
+  },
+  {
+    "id": 44,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Browser games",
+    "title": "The 9 Best Coding Games Online for Adults to Learn How to Code",
+    "url": "https://www.freecodecamp.org/news/best-coding-games-online-adults-learn-to-code/"
+  },
+  {
+    "id": 45,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Browser games",
+    "title": "I built a role playing game in JavaScript. You can, too. Here’s how.",
+    "url": "https://www.freecodecamp.org/news/learning-javascript-by-making-a-game-4aca51ad9030/"
+  },
+  {
+    "id": 46,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Browser games",
+    "title": "How to Build a Memory Card Game with Vue.js",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-with-vuejs/"
+  },
+  {
+    "id": 47,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game AI and randomness",
+    "title": "In need of evolution: game theory and AI",
+    "url": "https://www.freecodecamp.org/news/game-theory-and-ai-where-it-all-started-and-where-it-should-all-stop-82f7bd53a3b4/"
+  },
+  {
+    "id": 48,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game AI and randomness",
+    "title": "RNG Meaning – What does RNG Stand for in Gaming?",
+    "url": "https://www.freecodecamp.org/news/rng-meaning-what-does-rng-stand-for-in-gaming/"
+  },
+  {
+    "id": 49,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game AI and randomness",
+    "title": "Building an AI algorithm for the Tic-Tac-Toe challenge",
+    "url": "https://www.freecodecamp.org/news/building-an-ai-algorithm-for-the-tic-tac-toe-challenge-29d4d5adee07/"
+  },
+  {
+    "id": 50,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game techniques",
+    "title": "How developers programmed old Nintendo games to scroll so smoothly",
+    "url": "https://www.freecodecamp.org/news/how-developers-programmed-old-nintendo-games-to-scroll-so-smoothly-615028c7a311/"
+  },
+  {
+    "id": 51,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Game techniques",
+    "title": "How I Developed My First Adventure Game",
+    "url": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/"
+  },
+  {
+    "id": 52,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Competitive programming",
+    "title": "Mythbusting Competitive Programming – You Don't Need to Learn It",
+    "url": "https://www.freecodecamp.org/news/mythbusting-competitive-programming/"
+  },
+  {
+    "id": 53,
+    "roadmap": 1,
+    "group": "Algorithms and game development",
+    "topic": "Competitive programming",
+    "title": "How to Debug Your Code Like a Competitive Programmer – Automate and Save Time",
+    "url": "https://www.freecodecamp.org/news/debugging-like-competitive-programmers/"
+  },
+  {
+    "id": 54,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "API design and documentation",
+    "title": "How to Design an API – Application Programming Interface Best Practices",
+    "url": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/"
+  },
+  {
+    "id": 55,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "API design and documentation",
+    "title": "API Documentation Best Practices Course",
+    "url": "https://www.freecodecamp.org/news/api-documentation-best-practices-course/"
+  },
+  {
+    "id": 56,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "API design and documentation",
+    "title": "API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools",
+    "url": "https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/"
+  },
+  {
+    "id": 57,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "REST and GraphQL",
+    "title": "How to Build Web APIs with NestJS, Postgres, and Sequelize - A Beginner's Guide",
+    "url": "https://www.freecodecamp.org/news/build-web-apis-with-nestjs-beginners-guide/"
+  },
+  {
+    "id": 58,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "REST and GraphQL",
+    "title": "The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs",
+    "url": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/"
+  },
+  {
+    "id": 59,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "REST and GraphQL",
+    "title": "GraphQL vs REST API – Which Should You Use for Back End API Development?",
+    "url": "https://www.freecodecamp.org/news/graphql-vs-rest-api/"
+  },
+  {
+    "id": 60,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "REST and GraphQL",
+    "title": "How you can use a GraphQL API for database administration",
+    "url": "https://www.freecodecamp.org/news/using-a-graphql-api-for-database-administration-1a5039b43c8f/"
+  },
+  {
+    "id": 61,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "GraphQL types",
+    "title": "How to Use TypeScript with GraphQL using TypeGraphQL",
+    "url": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/"
+  },
+  {
+    "id": 62,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "API security",
+    "title": "How to Prevent Web API Attacks with Data Validation – Web API Security Guide",
+    "url": "https://www.freecodecamp.org/news/web-api-security-guide/"
+  },
+  {
+    "id": 63,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "MCP and browser tools",
+    "title": "How to Build a To-Do List MCP Server Using TypeScript – with Auth, Database, and Billing",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-to-do-list-mcp-server-using-typescript/"
+  },
+  {
+    "id": 64,
+    "roadmap": 1,
+    "group": "APIs",
+    "topic": "MCP and browser tools",
+    "title": "A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard",
+    "url": "https://www.freecodecamp.org/news/a-developers-guide-to-webmcp/"
+  },
+  {
+    "id": 65,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Architecture patterns",
+    "title": "MVC Architecture – What is a Model View Controller Framework?",
+    "url": "https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/"
+  },
+  {
+    "id": 66,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Architecture patterns",
+    "title": "An introduction to service and micro-service-oriented architectures",
+    "url": "https://www.freecodecamp.org/news/service-and-micro-service-oriented-architectures-explained-2f8d5da0ecdd/"
+  },
+  {
+    "id": 67,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Architecture patterns",
+    "title": "How to Create Software Architecture Diagrams Using the C4 Model",
+    "url": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/"
+  },
+  {
+    "id": 68,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Architecture patterns",
+    "title": "Learn Event Driven Architecture by Building a SaaS Application",
+    "url": "https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/"
+  },
+  {
+    "id": 69,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Architecture patterns",
+    "title": "Backend Software Architecture Checklist: How to Build a Product from Scratch",
+    "url": "https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scratch-heres-a-checklist-of-things-you-should-go-through-in-your-backend-software-architecture/"
+  },
+  {
+    "id": 70,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Scaling and distribution",
+    "title": "How Auto Scaling and Load Balancing Work in Software Architecture",
+    "url": "https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/"
+  },
+  {
+    "id": 71,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Scaling and distribution",
+    "title": "How Large-Scale Platforms Handle Millions of Daily Transactions",
+    "url": "https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/"
+  },
+  {
+    "id": 72,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Scaling and distribution",
+    "title": "How to split the deployment of your front end and back end with the help of Consumer Driven Contract Testing",
+    "url": "https://www.freecodecamp.org/news/split-frontend-backend-deployment-with-cdcs/"
+  },
+  {
+    "id": 73,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Safe delivery",
+    "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
+    "url": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/"
+  },
+  {
+    "id": 74,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Engineering principles",
+    "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+    "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/"
+  },
+  {
+    "id": 75,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Engineering principles",
+    "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+    "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/"
+  },
+  {
+    "id": 76,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Engineering principles",
+    "title": "The Iron Triangle, or \"Pick Two\"",
+    "url": "https://www.freecodecamp.org/news/the-iron-triangle-or-pick-two/"
+  },
+  {
+    "id": 77,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Engineering principles",
+    "title": "Orthogonality in Software Engineering",
+    "url": "https://www.freecodecamp.org/news/orthogonality-in-software-engineering/"
+  },
+  {
+    "id": 78,
+    "roadmap": 1,
+    "group": "Software architecture",
+    "topic": "Engineering principles",
+    "title": "The Case for End-to-End Engineering Education: Preparing Institutions for a Dynamic Future",
+    "url": "https://www.freecodecamp.org/news/the-case-for-end-to-end-engineering-education-preparing-institutions-for-a-dynamic-future/"
+  },
+  {
+    "id": 79,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Linters",
+    "title": "How to Add ESLint to Your React Project",
+    "url": "https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/"
+  },
+  {
+    "id": 80,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Testing foundations",
+    "title": "What is Debugging? How to Debug Your Code for Beginners",
+    "url": "https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"
+  },
+  {
+    "id": 81,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Testing foundations",
+    "title": "Software Testing – Beginner's Guide",
+    "url": "https://www.freecodecamp.org/news/software-testing-for-beginners/"
+  },
+  {
+    "id": 82,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "UI and API tests",
+    "title": "How to Add Screenshot Testing with Cypress to Your Project",
+    "url": "https://www.freecodecamp.org/news/how-to-add-screenshot-testing-with-cypress-to-your-project/"
+  },
+  {
+    "id": 83,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "UI and API tests",
+    "title": "A complete guide to end-to-end API testing with Docker",
+    "url": "https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/"
+  },
+  {
+    "id": 84,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "AI code review",
+    "title": "Stop Trusting AI Code Blindly: A React Code Refactoring Case Study",
+    "url": "https://www.freecodecamp.org/news/stop-trusting-ai-code-blindly-a-react-code-refactoring-case-study/"
+  },
+  {
+    "id": 85,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "AI code review",
+    "title": "How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/"
+  },
+  {
+    "id": 86,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "AI code review",
+    "title": "How to Unblock Your AI PR Review Bottleneck: A Tech Lead’s Guide to Building a Codebase-Aware Reviewer",
+    "url": "https://www.freecodecamp.org/news/how-to-unblock-ai-pr-review-bottleneck-handbook/"
+  },
+  {
+    "id": 87,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "AI testing integrity",
+    "title": "The AI Coding Loop: How to Guide AI With Rules and Tests",
+    "url": "https://www.freecodecamp.org/news/how-to-guide-ai-with-rules-and-tests/"
+  },
+  {
+    "id": 88,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "AI testing integrity",
+    "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+    "url": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/"
+  },
+  {
+    "id": 89,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Code quality and security",
+    "title": "How to Evaluate AI Code Quality: A Practical Guide for Engineers",
+    "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-code-quality-a-practical-guide-for-engineers/"
+  },
+  {
+    "id": 90,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Code quality and security",
+    "title": "How You Can Use AI to Improve Your Code Quality",
+    "url": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/"
+  },
+  {
+    "id": 91,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Code quality and security",
+    "title": "Can ChatGPT Ensure Secure Coding Practices?",
+    "url": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/"
+  },
+  {
+    "id": 92,
+    "roadmap": 1,
+    "group": "Testing and code quality",
+    "topic": "Full-stack testing",
+    "title": "How to Test a Complex Full-Stack App: Manual Approach vs AI-Assisted Testing",
+    "url": "https://www.freecodecamp.org/news/how-to-test-a-complex-full-stack-app-manual-vs-ai-assisted-testing/"
+  },
+  {
+    "id": 93,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Containers and CI/CD",
+    "title": "How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions",
+    "url": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/"
+  },
+  {
+    "id": 94,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Containers and CI/CD",
+    "title": "How to Optimize Your Docker Build Cache & Cut Your CI/CD Pipeline Times by 80%",
+    "url": "https://www.freecodecamp.org/news/how-to-optimize-your-docker-build-cache/"
+  },
+  {
+    "id": 95,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Observability",
+    "title": "How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime",
+    "url": "https://www.freecodecamp.org/news/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de/"
+  },
+  {
+    "id": 96,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Observability",
+    "title": "Top Application Monitoring Tools for Developers",
+    "url": "https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/"
+  },
+  {
+    "id": 97,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Developer platforms",
+    "title": "How to Build an Internal Developer Platform: A Complete Guide to Backstage, ArgoCD, and Crossplane",
+    "url": "https://www.freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane/"
+  },
+  {
+    "id": 98,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Developer platforms",
+    "title": "How to set up a serious Kubernetes terminal",
+    "url": "https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4/"
+  },
+  {
+    "id": 99,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Embedded systems",
+    "title": "QuRT: The Real-Time OS Inside Your Phone's Processor [Full Handbook]",
+    "url": "https://www.freecodecamp.org/news/qurt-the-real-time-os-inside-your-phone-s-processor-full-handbook/"
+  },
+  {
+    "id": 100,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Embedded systems",
+    "title": "Learn Embedded Systems Firmware Basics – A Handbook for Developers",
+    "url": "https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/"
+  },
+  {
+    "id": 101,
+    "roadmap": 1,
+    "group": "Delivery, infrastructure and monitoring",
+    "topic": "Application scaling",
+    "title": "Scaling Node.js Applications",
+    "url": "https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/"
+  },
+  {
+    "id": 102,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Pipelines and data lakes",
+    "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
+    "url": "https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/"
+  },
+  {
+    "id": 103,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Pipelines and data lakes",
+    "title": "How to Build an Open Source Data Lake for Batch Ingestion",
+    "url": "https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/"
+  },
+  {
+    "id": 104,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "SQL and performance",
+    "title": "SQL Tips to Help You Save Time and Write Simpler Queries",
+    "url": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/"
+  },
+  {
+    "id": 105,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "SQL and performance",
+    "title": "How to Optimize Enterprise Application Performance with T-SQL Query Tuning and Indexing Strategies",
+    "url": "https://www.freecodecamp.org/news/optimize-enterprise-app-performance-with-t-sql-query-tuning-and-indexing-strategies/"
+  },
+  {
+    "id": 106,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "SQL and performance",
+    "title": "Machine Learning Directly in SQL – How to Use ML in Databases",
+    "url": "https://www.freecodecamp.org/news/machine-learning-directly-in-sql/"
+  },
+  {
+    "id": 107,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Python APIs and automation",
+    "title": "Python Project – How to Create a Horoscope API with Beautiful Soup and Flask",
+    "url": "https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/"
+  },
+  {
+    "id": 108,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Python APIs and automation",
+    "title": "Creating APIs with Python - Free 19-Hour Course",
+    "url": "https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/"
+  },
+  {
+    "id": 109,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Python APIs and automation",
+    "title": "A Python project in 30 lines of code: how to set up an SMS notification when your favorite Twitcher is streaming",
+    "url": "https://www.freecodecamp.org/news/20-lines-of-python-code-get-notified-by-sms-when-your-favorite-team-scores-a-goal/"
+  },
+  {
+    "id": 110,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Financial data projects",
+    "title": "How to Create Auto-Updating Excel Spreadsheets of Stock Market Data with Python, AWS, and IEX Cloud",
+    "url": "https://www.freecodecamp.org/news/auto-updating-excel-python-aws/"
+  },
+  {
+    "id": 111,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Financial data projects",
+    "title": "How to Get Started with Algorithmic Trading in Python",
+    "url": "https://www.freecodecamp.org/news/how-to-get-started-with-algorithmic-trading-in-python/"
+  },
+  {
+    "id": 112,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Graphs and data careers",
+    "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/"
+  },
+  {
+    "id": 113,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Graphs and data careers",
+    "title": "The Difference Between Data Science and Data Engineering",
+    "url": "https://www.freecodecamp.org/news/data-science-vs-data-engineering/"
+  },
+  {
+    "id": 114,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Graphs and data careers",
+    "title": "Prepare for the Databricks Data Engineer Associate Certification Exam – And Pass!",
+    "url": "https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/"
+  },
+  {
+    "id": 115,
+    "roadmap": 2,
+    "group": "Data engineering and applied Python",
+    "topic": "Graphs and data careers",
+    "title": "How to become a freelance Data Scientist",
+    "url": "https://www.freecodecamp.org/news/how-to-become-a-freelance-data-scientist-7b55ab787df2/"
+  },
+  {
+    "id": 116,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "ML serving and operations",
+    "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
+    "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/"
+  },
+  {
+    "id": 117,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "ML serving and operations",
+    "title": "What is MLOps? Machine Learning Operations Explained",
+    "url": "https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/"
+  },
+  {
+    "id": 118,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "ML serving and operations",
+    "title": "How to Scale LLM Inference for AI Agents Using vLLM",
+    "url": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/"
+  },
+  {
+    "id": 119,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Neural networks",
+    "title": "Learn to Build a Multilayer Perceptron with Real-Life Examples and Python Code",
+    "url": "https://www.freecodecamp.org/news/build-a-multilayer-perceptron-with-examples-and-python-code/"
+  },
+  {
+    "id": 120,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Neural networks",
+    "title": "What Is a Convolutional Neural Network? A Beginner's Tutorial for Machine Learning and Deep Learning",
+    "url": "https://www.freecodecamp.org/news/convolutional-neural-network-tutorial-for-beginners/"
+  },
+  {
+    "id": 121,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Neural networks",
+    "title": "The Ultimate Guide to Recurrent Neural Networks in Python",
+    "url": "https://www.freecodecamp.org/news/the-ultimate-guide-to-recurrent-neural-networks-in-python/"
+  },
+  {
+    "id": 122,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Vision and translation",
+    "title": "How Neural Machine Translation Works: Build Your Own Translation App with React Native and QVAC",
+    "url": "https://www.freecodecamp.org/news/how-neural-machine-translation-works-build-your-own-translation-app-with-react-native-and-qvac/"
+  },
+  {
+    "id": 123,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Vision and translation",
+    "title": "Build a Vision Transformer from Scratch",
+    "url": "https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/"
+  },
+  {
+    "id": 124,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Vision and translation",
+    "title": "Image Recognition Demystified",
+    "url": "https://www.freecodecamp.org/news/image-recognition-demystified-fc9c89b894ce/"
+  },
+  {
+    "id": 125,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Clustering",
+    "title": "K-Means Clustering – How to Unveil Hidden Patterns in Your Data",
+    "url": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/"
+  },
+  {
+    "id": 126,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Model architecture and compute",
+    "title": "How the Mixture of Experts Architecture Works in AI Models",
+    "url": "https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/"
+  },
+  {
+    "id": 127,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Model architecture and compute",
+    "title": "From Pixels to Predictions: How GPUs Started Powering Modern AI",
+    "url": "https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"
+  },
+  {
+    "id": 128,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Research and history",
+    "title": "Going deeper: A history of ideas in AI research",
+    "url": "https://www.freecodecamp.org/news/deeper-ai-a104cf1bd04a/"
+  },
+  {
+    "id": 129,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Research and history",
+    "title": "AI Paper Review: Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "url": "https://www.freecodecamp.org/news/ai-paper-review-deep-unsupervised-learning-using-nonequilibrium-thermodynamics/"
+  },
+  {
+    "id": 130,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Research and history",
+    "title": "\"Relaxation and its Role in Vision\": The 1977 PhD Thesis That Helped Shape Modern AI Research",
+    "url": "https://www.freecodecamp.org/news/relaxation-and-its-role-in-vision-the-1977-phd-thesis-that-helped-shape-modern-ai-research/"
+  },
+  {
+    "id": 131,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Research and history",
+    "title": "The Next Step Towards Artificial General Intelligence — StarCraft II",
+    "url": "https://www.freecodecamp.org/news/the-next-step-towards-artificial-general-intelligence-starcraft-ii-f562d5607e2/"
+  },
+  {
+    "id": 132,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Learning and model comparisons",
+    "title": "This is why anyone can learn Machine Learning",
+    "url": "https://www.freecodecamp.org/news/this-is-why-anyone-can-learn-machine-learning-a5333ee64dff/"
+  },
+  {
+    "id": 133,
+    "roadmap": 2,
+    "group": "Machine learning and AI foundations",
+    "topic": "Learning and model comparisons",
+    "title": "GPT-5.4 vs GLM-5: Is Open Source Finally Matching Proprietary AI?",
+    "url": "https://www.freecodecamp.org/news/gpt-5-4-vs-glm-5-is-open-source-finally-matching-proprietary-ai/"
+  },
+  {
+    "id": 134,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "AI in finance",
+    "title": "How to Generate Financial Press Reviews Using AI",
+    "url": "https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/"
+  },
+  {
+    "id": 135,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "AI in finance",
+    "title": "AI in Finance: Transforming Investments and Banking in the Digital Age",
+    "url": "https://www.freecodecamp.org/news/ai-in-finance-handbook/"
+  },
+  {
+    "id": 136,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "AI for accessibility",
+    "title": "Making the web more accessible with AI",
+    "url": "https://www.freecodecamp.org/news/making-the-web-more-accessible-with-ai-84598eebabdb/"
+  },
+  {
+    "id": 137,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "AI for accessibility",
+    "title": "How you can use AI, AR, and WebGL shaders to assist the visually impaired",
+    "url": "https://www.freecodecamp.org/news/how-you-can-use-ai-ar-and-webgl-shaders-to-assist-the-visually-impaired-3df5bdf3b3e2/"
+  },
+  {
+    "id": 138,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "Engineering handbook",
+    "title": "The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer",
+    "url": "https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/"
+  },
+  {
+    "id": 139,
+    "roadmap": 2,
+    "group": "AI Engineering",
+    "topic": "Engineering roadmap",
+    "title": "AI Engineering Roadmap",
+    "url": "https://www.freecodecamp.org/news/ai-engineering-roadmap/"
+  },
+  {
+    "id": 140,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Claude Code",
+    "title": "Claude Code Full Course",
+    "url": "https://www.freecodecamp.org/news/claude-code-full-course/"
+  },
+  {
+    "id": 141,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Claude Code",
+    "title": "The Claude Code Handbook: A Professional Introduction to Building with AI-Assisted Development",
+    "url": "https://www.freecodecamp.org/news/claude-code-handbook/"
+  },
+  {
+    "id": 142,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Claude Code",
+    "title": "How to Use Claude AI – Introduction to Claude AI + Code Example",
+    "url": "https://www.freecodecamp.org/news/introduction-to-claude-ai/"
+  },
+  {
+    "id": 143,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Coding workflows",
+    "title": "How to Build an Agentic Terminal Workflow with GitHub Copilot CLI and MCP Servers",
+    "url": "https://www.freecodecamp.org/news/how-to-build-an-agentic-terminal-workflow-with-github-copilot-cli-and-mcp-servers/"
+  },
+  {
+    "id": 144,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Coding workflows",
+    "title": "How to Break the AI Coding Agent Fix Loop",
+    "url": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/"
+  },
+  {
+    "id": 145,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Coding workflows",
+    "title": "How to Connect Your AI Coding Agent to a Browser on macOS",
+    "url": "https://www.freecodecamp.org/news/how-to-connect-your-ai-coding-agent-to-a-browser-on-macos/"
+  },
+  {
+    "id": 146,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Tools and productivity",
+    "title": "Top AI Productivity Tools for Developers and Professionals",
+    "url": "https://www.freecodecamp.org/news/top-ai-productivity-tools-for-developers-and-professionals/"
+  },
+  {
+    "id": 147,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Tools and productivity",
+    "title": "Al Assistants That Help Your Productivity (Besides ChatGPT)",
+    "url": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/"
+  },
+  {
+    "id": 148,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Tools and productivity",
+    "title": "AI Tools for Developers – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI",
+    "url": "https://www.freecodecamp.org/news/ai-tools-for-developers/"
+  },
+  {
+    "id": 149,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Tools and productivity",
+    "title": "Open Source AI Projects and Tools You Should Try",
+    "url": "https://www.freecodecamp.org/news/open-source-ai/"
+  },
+  {
+    "id": 150,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Developer practice",
+    "title": "How AI Tools Can Help You Reuse Code",
+    "url": "https://www.freecodecamp.org/news/tools-for-code-reuse/"
+  },
+  {
+    "id": 151,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Developer practice",
+    "title": "How to Become an Expert in AI-Assisted Coding – A Handbook for Developers",
+    "url": "https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/"
+  },
+  {
+    "id": 152,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Developer practice",
+    "title": "How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively",
+    "url": "https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/"
+  },
+  {
+    "id": 153,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Developer practice",
+    "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
+    "url": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/"
+  },
+  {
+    "id": 154,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Careers and certification",
+    "title": "Claude Certified Architect – Foundations: Prep for Anthropic's New Certification Exam",
+    "url": "https://www.freecodecamp.org/news/claude-certified-architect-foundations-prep-for-anthropic-s-new-certification-exam/"
+  },
+  {
+    "id": 155,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Careers and certification",
+    "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
+    "url": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/"
+  },
+  {
+    "id": 156,
+    "roadmap": 2,
+    "group": "AI-assisted development",
+    "topic": "Careers and certification",
+    "title": "How to Future-Proof Your Software Engineering Career for the Age of AGI",
+    "url": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/"
+  },
+  {
+    "id": 157,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "RAG and memory",
+    "title": "Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
+    "url": "https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/"
+  },
+  {
+    "id": 158,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "RAG and memory",
+    "title": "How AI Agents Remember Things: The Role of Vector Stores in LLM Memory",
+    "url": "https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/"
+  },
+  {
+    "id": 159,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "RAG and memory",
+    "title": "How to Handle Small Context Window Limits in RAG Systems",
+    "url": "https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/"
+  },
+  {
+    "id": 160,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "RAG and memory",
+    "title": "How to Build a RAG Q&A AI Agent for Your Documents Using LangChain v1",
+    "url": "https://www.freecodecamp.org/news/build-a-private-rag-qa-ai-agent-for-your-documents-using-langchain/"
+  },
+  {
+    "id": 161,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "Structured outputs",
+    "title": "How to Get Reliable Structured Data Out of an LLM",
+    "url": "https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"
+  },
+  {
+    "id": 162,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "Application projects",
+    "title": "How to Use Apple’s Foundation Models in a Web App with a macOS Companion",
+    "url": "https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/"
+  },
+  {
+    "id": 163,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "Application projects",
+    "title": "How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial",
+    "url": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/"
+  },
+  {
+    "id": 164,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "Application projects",
+    "title": "How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/"
+  },
+  {
+    "id": 165,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "LLM foundations",
+    "title": "How to Use LangChain to Build With LLMs – A Beginner's Guide",
+    "url": "https://www.freecodecamp.org/news/beginners-guide-to-langchain/"
+  },
+  {
+    "id": 166,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "LLM foundations",
+    "title": "From LLMs to LangChain: Understanding How Modern AI Applications Actually Work",
+    "url": "https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/"
+  },
+  {
+    "id": 167,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "LLM foundations",
+    "title": "How and Why to Incorporate AI into Web Development",
+    "url": "https://www.freecodecamp.org/news/how-ai-boosts-website-development/"
+  },
+  {
+    "id": 168,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "LLM foundations",
+    "title": "The Hidden Engineering Behind Every AI Product: What Software Engineers Should Know",
+    "url": "https://www.freecodecamp.org/news/the-hidden-engineering-behind-ai-products-what-devs-should-know/"
+  },
+  {
+    "id": 169,
+    "roadmap": 2,
+    "group": "LLM applications and retrieval",
+    "topic": "Model customization",
+    "title": "How to Customize an LLM for AI Agents using SFT and QLoRA",
+    "url": "https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/"
+  },
+  {
+    "id": 170,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "MCP servers",
+    "title": "How to Build an MCP Server with FastMCP for Your Local AI Agent",
+    "url": "https://www.freecodecamp.org/news/build-an-mcp-server-with-fastmcp-for-local-ai-agent/"
+  },
+  {
+    "id": 171,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "MCP servers",
+    "title": "MCP vs APIs: What's the Real Difference?",
+    "url": "https://www.freecodecamp.org/news/mcp-vs-apis-whats-the-real-difference/"
+  },
+  {
+    "id": 172,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "MCP servers",
+    "title": "How to Build an MCP Server with Python, Docker, and Claude Code",
+    "url": "https://www.freecodecamp.org/news/how-to-build-an-mcp-server-with-python-docker-and-claude-code/"
+  },
+  {
+    "id": 173,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent frameworks",
+    "title": "Learn LangGraph and Build Conversational AI with Python",
+    "url": "https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/"
+  },
+  {
+    "id": 174,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent frameworks",
+    "title": "How to Build and Deploy an AI Agent with LangChain, FastAPI, and Sevalla",
+    "url": "https://www.freecodecamp.org/news/build-ai-agent-with-langchain-fastapi-and-sevalla/"
+  },
+  {
+    "id": 175,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent frameworks",
+    "title": "LangChain Alternatives You Can Use to Build AI and Agentic Workflows",
+    "url": "https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/"
+  },
+  {
+    "id": 176,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent frameworks",
+    "title": "How to Develop AI Agents Using LangGraph: A Practical Guide",
+    "url": "https://www.freecodecamp.org/news/how-to-develop-ai-agents-using-langgraph-a-practical-guide/"
+  },
+  {
+    "id": 177,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Local agents",
+    "title": "How to Build Your Own Local AI Agent with Tool Calling and Memory",
+    "url": "https://www.freecodecamp.org/news/how-to-build-your-own-local-ai-agent-with-tool-calling-and-memory/"
+  },
+  {
+    "id": 178,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Local agents",
+    "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
+    "url": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/"
+  },
+  {
+    "id": 179,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Local agents",
+    "title": "How to Build a Personal Web Research AI Agent with Ollama and Qwen",
+    "url": "https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/"
+  },
+  {
+    "id": 180,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/"
+  },
+  {
+    "id": 181,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build a Voice AI Agent Using Open-Source Tools",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/"
+  },
+  {
+    "id": 182,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
+    "url": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/"
+  },
+  {
+    "id": 183,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build a Real-time AI Gym Coach with Vision Agents",
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/"
+  },
+  {
+    "id": 184,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build and Deploy a LogAnalyzer Agent using LangChain",
+    "url": "https://www.freecodecamp.org/news/how-to-build-and-deploy-a-loganalyzer-agent-using-langchain/"
+  },
+  {
+    "id": 185,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent projects",
+    "title": "How to Build an AI Agent That Runs its Own LLM Experiments with autoresearch",
+    "url": "https://www.freecodecamp.org/news/build-an-ai-agent-that-runs-its-own-llm-experiments-with-autoresearch/"
+  },
+  {
+    "id": 186,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Workflow orchestration",
+    "title": "How to Build AI Workflows with n8n",
+    "url": "https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/"
+  },
+  {
+    "id": 187,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Workflow orchestration",
+    "title": "How to Build an End-to-End Conversational AI System using Behavior Trees",
+    "url": "https://www.freecodecamp.org/news/how-to-build-an-end-to-end-conversational-ai-system-using-behavior-trees-658a7122e794/"
+  },
+  {
+    "id": 188,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Workflow orchestration",
+    "title": "Prompt vs Loop Engineering: A Guide for Developers",
+    "url": "https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/"
+  },
+  {
+    "id": 189,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent foundations",
+    "title": "The Agentic AI Handbook: A Beginner's Guide to Autonomous Intelligent Agents",
+    "url": "https://www.freecodecamp.org/news/the-agentic-ai-handbook/"
+  },
+  {
+    "id": 190,
+    "roadmap": 2,
+    "group": "Agents, MCP and automation",
+    "topic": "Agent foundations",
+    "title": "AI Agents For Beginners",
+    "url": "https://www.freecodecamp.org/news/ai-agents-for-beginners/"
+  },
+  {
+    "id": 191,
+    "roadmap": 1,
+    "group": "AI reliability and governance",
+    "topic": "Evaluations",
+    "title": "How to Test and Improve AI Applications with an Evaluation Flywheel",
+    "url": "https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/"
+  },
+  {
+    "id": 192,
+    "roadmap": 1,
+    "group": "AI reliability and governance",
+    "topic": "Evaluations",
+    "title": "How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python",
+    "url": "https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/"
+  },
+  {
+    "id": 193,
+    "roadmap": 1,
+    "group": "AI reliability and governance",
+    "topic": "System reliability",
+    "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+    "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/"
+  },
+  {
+    "id": 194,
+    "roadmap": 1,
+    "group": "AI reliability and governance",
+    "topic": "System reliability",
+    "title": "How to Build Reliable AI Systems.",
+    "url": "https://www.freecodecamp.org/news/how-to-build-reliable-ai-systems/"
+  },
+  {
+    "id": 195,
+    "roadmap": 1,
+    "group": "AI reliability and governance",
+    "topic": "Governance",
+    "title": "What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations",
+    "url": "https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/"
+  },
+  {
+    "id": 196,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Agile",
+    "title": "What is Agile and How You Can Become an Epic Storyteller",
+    "url": "https://www.freecodecamp.org/news/what-is-agile-and-how-youcan-become-an-epic-storyteller/"
+  },
+  {
+    "id": 197,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Job search and visibility",
+    "title": "How to build a Serverless AI Agent to Generate Cold emails for Your Dream Job",
+    "url": "https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/"
+  },
+  {
+    "id": 198,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Job search and visibility",
+    "title": "Entry-Level Tech Jobs – Beginner IT Jobs with No Experience Required",
+    "url": "https://www.freecodecamp.org/news/entry-level-tech-job-guide/"
+  },
+  {
+    "id": 199,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Job search and visibility",
+    "title": "Computer Skills for Résumé – Software Skill Proficiency Guide",
+    "url": "https://www.freecodecamp.org/news/computer-skills-for-resume-software-skill-proficiency-guide/"
+  },
+  {
+    "id": 200,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Job search and visibility",
+    "title": "How I automated my job search by building a web crawler from scratch",
+    "url": "https://www.freecodecamp.org/news/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718/"
+  },
+  {
+    "id": 201,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Job search and visibility",
+    "title": "Developers—here’s how to get potential employers and clients to notice you",
+    "url": "https://www.freecodecamp.org/news/developers-why-potential-clients-employees-ignore-you-1982d3d1186d/"
+  },
+  {
+    "id": 202,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Learning paths",
+    "title": "How to build an adaptive learning system",
+    "url": "https://www.freecodecamp.org/news/adaptive-learning-systems/"
+  },
+  {
+    "id": 203,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Learning paths",
+    "title": "The Top 100 Free University Courses of the Year (Ranked by Popularity)",
+    "url": "https://www.freecodecamp.org/news/most-popular-free-online-courses/"
+  },
+  {
+    "id": 204,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Creative practice",
+    "title": "How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block",
+    "url": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/"
+  },
+  {
+    "id": 205,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Style reference",
+    "title": "freeCodeCamp - Style Guide",
+    "url": "https://design-style-guide.freecodecamp.org/"
+  },
+  {
+    "id": 206,
+    "roadmap": 1,
+    "group": "Career, learning and creativity",
+    "topic": "Tech career paths",
+    "title": "Computer Science VS Information Technology – What's the Difference Between CS and IT?",
+    "url": "https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/"
+  }
+]

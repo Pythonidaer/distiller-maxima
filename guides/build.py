@@ -60,3 +60,6 @@ about=(root/'guides/about.html').read_text().replace('HEADER',header.replace('NA
 style=(root/'guides/style-guide.html').read_text().replace('HEADER',header.replace('NAV',nav)).replace('METHODOLOGY</footer>',methodology+'</footer>')
 (dist/'style-guide.html').write_text(style)
 exec((root/'guides/material_icons.py').read_text())
+
+# Metadata lives in delivered HTML, not client-side JavaScript.
+exec(compile((root/'guides/metadata.py').read_text(),str(root/'guides/metadata.py'),'exec'))
